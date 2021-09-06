@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white}
 
+h1{color:grey;font-family:verdana;}
+
+footer {
+   position:absolute;
+   bottom:0;
+   width:90%;
+   height:40px;
+}
+
+.maindiv {
+	background-color: white;	
+	color:black;
+	width: 480px;
+	height: 450px;
+	padding: 20px;
+	border-radius: 25px;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	align: "center";
+}
+
+.a {
+	text-indent: 90px;
+}
+
+span {
+	text-indent: 90px;
+}
+	
 
